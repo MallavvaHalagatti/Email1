@@ -7,6 +7,7 @@ public class Gitub2 {
 		System.out.print("qqq");
 		System.out.println("tt");
 		System.out.println("Merged from branch to master");
+		System.out.println("Merge from branch 2 to 1");
 		
 
 	}
