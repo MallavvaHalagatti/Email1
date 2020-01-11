@@ -6,6 +6,8 @@ public class Gitub2 {
 		// TODO Auto-generated method stub
 		System.out.print("qqq");
 		System.out.println("tt");
+		System.out.println("Merged from branch to master");
+		
 
 	}
 
